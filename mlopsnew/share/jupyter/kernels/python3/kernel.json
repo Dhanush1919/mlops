@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:/Users/Danush/Data Science 2023/Projects/End to end Project/mlops/mlopsnew\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}
