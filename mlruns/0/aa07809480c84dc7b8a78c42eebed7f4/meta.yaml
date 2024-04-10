@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/aa07809480c84dc7b8a78c42eebed7f4/artifacts
+end_time: 1712773504666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa07809480c84dc7b8a78c42eebed7f4
+run_name: gentle-cow-81
+run_uuid: aa07809480c84dc7b8a78c42eebed7f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712773497287
+status: 3
+tags: []
+user_id: Dhanush1919
