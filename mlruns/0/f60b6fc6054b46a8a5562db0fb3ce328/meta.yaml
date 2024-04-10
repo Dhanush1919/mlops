@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/f60b6fc6054b46a8a5562db0fb3ce328/artifacts
+end_time: 1712777338928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f60b6fc6054b46a8a5562db0fb3ce328
+run_name: blushing-doe-841
+run_uuid: f60b6fc6054b46a8a5562db0fb3ce328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712777334625
+status: 3
+tags: []
+user_id: Danush
