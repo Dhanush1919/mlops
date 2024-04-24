@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/1aab424869cd4299bffa4a64ed6a6c58/artifacts
+end_time: 1713004332896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1aab424869cd4299bffa4a64ed6a6c58
+run_name: masked-owl-161
+run_uuid: 1aab424869cd4299bffa4a64ed6a6c58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713004328118
+status: 3
+tags: []
+user_id: Danush

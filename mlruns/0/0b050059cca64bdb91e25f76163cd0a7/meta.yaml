@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/0b050059cca64bdb91e25f76163cd0a7/artifacts
+end_time: 1712777711068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b050059cca64bdb91e25f76163cd0a7
+run_name: dapper-steed-519
+run_uuid: 0b050059cca64bdb91e25f76163cd0a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712777707313
+status: 3
+tags: []
+user_id: Danush

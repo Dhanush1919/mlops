@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/6c944b6251f44153b9e7bc335a145953/artifacts
+end_time: 1713009845812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c944b6251f44153b9e7bc335a145953
+run_name: auspicious-quail-120
+run_uuid: 6c944b6251f44153b9e7bc335a145953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713009842422
+status: 3
+tags: []
+user_id: Danush

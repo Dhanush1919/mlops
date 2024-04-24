@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/b4443c79cfe24131a54296d2ac94b760/artifacts
+end_time: 1713976122879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4443c79cfe24131a54296d2ac94b760
+run_name: worried-shrew-645
+run_uuid: b4443c79cfe24131a54296d2ac94b760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713976115447
+status: 3
+tags: []
+user_id: Danush

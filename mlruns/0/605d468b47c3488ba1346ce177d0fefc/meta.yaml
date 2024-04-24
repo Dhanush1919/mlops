@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/605d468b47c3488ba1346ce177d0fefc/artifacts
+end_time: 1713004509898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 605d468b47c3488ba1346ce177d0fefc
+run_name: judicious-crow-630
+run_uuid: 605d468b47c3488ba1346ce177d0fefc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713004506246
+status: 3
+tags: []
+user_id: Danush

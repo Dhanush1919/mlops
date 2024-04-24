@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/4d2588099a4640fda97c3e9f8f2e29b8/artifacts
+end_time: 1713010117175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d2588099a4640fda97c3e9f8f2e29b8
+run_name: fun-zebra-544
+run_uuid: 4d2588099a4640fda97c3e9f8f2e29b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713010113609
+status: 3
+tags: []
+user_id: Danush

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/bf6c51fa0ba748808d02c9b3b3ff96ef/artifacts
+end_time: 1713004942283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf6c51fa0ba748808d02c9b3b3ff96ef
+run_name: rebellious-kit-100
+run_uuid: bf6c51fa0ba748808d02c9b3b3ff96ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713004935396
+status: 3
+tags: []
+user_id: Danush

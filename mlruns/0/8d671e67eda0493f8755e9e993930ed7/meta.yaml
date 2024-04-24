@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/8d671e67eda0493f8755e9e993930ed7/artifacts
+end_time: 1713004231883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d671e67eda0493f8755e9e993930ed7
+run_name: nimble-snail-442
+run_uuid: 8d671e67eda0493f8755e9e993930ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713004225658
+status: 3
+tags: []
+user_id: Danush

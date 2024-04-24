@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/8a1a7ca52c874238a2d614e45f3c53e8/artifacts
+end_time: 1713010558992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a1a7ca52c874238a2d614e45f3c53e8
+run_name: casual-stoat-418
+run_uuid: 8a1a7ca52c874238a2d614e45f3c53e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713010555075
+status: 3
+tags: []
+user_id: Danush

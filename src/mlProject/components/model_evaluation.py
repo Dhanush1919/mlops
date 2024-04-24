@@ -10,6 +10,7 @@ from src.mlProject.entity.config_entity import ModelEvaluationConfig
 from src.mlProject.utils.common import save_json
 from pathlib import Path
 
+
 class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
         self.config = config

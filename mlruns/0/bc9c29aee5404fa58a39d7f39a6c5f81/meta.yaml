@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/bc9c29aee5404fa58a39d7f39a6c5f81/artifacts
+end_time: 1713009712640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc9c29aee5404fa58a39d7f39a6c5f81
+run_name: chill-sloth-801
+run_uuid: bc9c29aee5404fa58a39d7f39a6c5f81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713009709210
+status: 3
+tags: []
+user_id: Danush

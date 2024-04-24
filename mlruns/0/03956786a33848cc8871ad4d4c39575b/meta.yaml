@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Danush/Data%20Science%202023/Projects/End%20to%20end%20Project/mlops/mlruns/0/03956786a33848cc8871ad4d4c39575b/artifacts
+end_time: 1713009592287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03956786a33848cc8871ad4d4c39575b
+run_name: angry-swan-190
+run_uuid: 03956786a33848cc8871ad4d4c39575b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713009586511
+status: 3
+tags: []
+user_id: Danush
